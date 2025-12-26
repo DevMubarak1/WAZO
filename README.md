@@ -1,6 +1,6 @@
 # WAZO: An Open-Source Indigenous Nigerian Voice Assistant 🎙️🇳🇬
 
-![Wazo Project Logo](./wazo.jpg)
+![Wazo Project Logo](./WAZO.jpg)
 
 **WAZO** is a decentralized, edge-AI voice assistant designed specifically for the Nigerian linguistic landscape. While global assistants (Siri, Alexa) prioritize high-resource Western languages, Wazo is purpose-built to understand and respond in **Nigerian Pidgin, Yorùbá, Igbo, and Hausa**, as well as Nigerian-accented English.
 
