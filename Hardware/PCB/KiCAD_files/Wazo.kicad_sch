@@ -10817,7 +10817,7 @@
 			(uuid "fd34902a-443d-4256-b815-dc8793e73edf")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R10")
 					(unit 1)
@@ -10977,7 +10977,7 @@
 			(uuid "83833b9a-31c4-4875-99ef-ffc3856be246")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "C21")
 					(unit 1)
@@ -11043,7 +11043,7 @@
 			(uuid "34b5ea05-2e9f-4eb8-9831-8925fc3c52c0")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0129")
 					(unit 1)
@@ -11108,7 +11108,7 @@
 			(uuid "ff1260fa-7100-4800-bf07-9eec55aa89cb")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0159")
 					(unit 1)
@@ -11213,7 +11213,7 @@
 			(uuid "5ac2fc99-d246-4188-a0c3-c73b03eff48f")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R8")
 					(unit 1)
@@ -11318,7 +11318,7 @@
 			(uuid "602acc94-e70c-4c92-aa3b-d25152f32f90")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R9")
 					(unit 1)
@@ -11383,7 +11383,7 @@
 			(uuid "b4daa599-bfcc-4864-bde9-2cdaf1713677")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0108")
 					(unit 1)
@@ -11448,7 +11448,7 @@
 			(uuid "b8f71499-8f5b-4d8b-b751-d86ec3bccdf1")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0142")
 					(unit 1)
@@ -11513,7 +11513,7 @@
 			(uuid "f5e0331e-3475-4020-885d-89d15191f059")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0115")
 					(unit 1)
@@ -11578,7 +11578,7 @@
 			(uuid "273cfa50-6e66-4c80-be34-c312462ff4ec")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0168")
 					(unit 1)
@@ -11643,7 +11643,7 @@
 			(uuid "f137cbbe-b41c-4489-9d19-c75e8aca46f8")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0114")
 					(unit 1)
@@ -11708,7 +11708,7 @@
 			(uuid "98ec58c7-d209-4f5c-a5a7-07f598619412")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0112")
 					(unit 1)
@@ -11814,7 +11814,7 @@
 			(uuid "58e3c8cd-7897-4787-845e-ce92c6d9a183")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "C13")
 					(unit 1)
@@ -12035,7 +12035,7 @@
 			(uuid "a2ce0c15-2b75-4960-b78f-132e0c0250f3")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "U1")
 					(unit 1)
@@ -12141,7 +12141,7 @@
 			(uuid "05b68c1e-da4c-4612-9538-9fbc0b59b22c")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "C16")
 					(unit 1)
@@ -12206,7 +12206,7 @@
 			(uuid "103ca730-f5f6-485b-adac-5503edf269ee")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0157")
 					(unit 1)
@@ -12275,7 +12275,7 @@
 			(uuid "45451ff3-3852-40af-b05e-5c97f3ead2ee")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "C4")
 					(unit 1)
@@ -12341,7 +12341,7 @@
 			(uuid "9da7f3f4-09ef-4a26-b38b-f04b87cef626")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0122")
 					(unit 1)
@@ -12422,7 +12422,7 @@
 			(uuid "e893d058-af17-47b2-a7b2-ffab59040f6c")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R25")
 					(unit 1)
@@ -12492,7 +12492,7 @@
 			(uuid "b5e4e5ef-e424-4e52-9fc6-a3dd2932bb0f")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "C5")
 					(unit 1)
@@ -12557,7 +12557,7 @@
 			(uuid "1f87e640-5c07-4364-a920-ac3bb066afa7")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0128")
 					(unit 1)
@@ -12716,7 +12716,7 @@
 			(uuid "7f5278e2-868d-4f60-9a1d-753b4526aa7e")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "LED2")
 					(unit 1)
@@ -12782,7 +12782,7 @@
 			(uuid "a39615e4-7e19-4461-98ad-e2751a5c757e")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0123")
 					(unit 1)
@@ -12847,7 +12847,7 @@
 			(uuid "cc00aec8-a3ce-4493-b242-2033ea995c78")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0158")
 					(unit 1)
@@ -12912,7 +12912,7 @@
 			(uuid "7660d480-8b1e-4050-a213-bc79143fbbcf")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0160")
 					(unit 1)
@@ -12978,7 +12978,7 @@
 			(uuid "f7f78cf9-97d7-4d66-808c-cbe5749a814e")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0156")
 					(unit 1)
@@ -13081,7 +13081,7 @@
 			(uuid "ceb155c5-d8d0-44bb-bf76-a4f99fb1ab16")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R21")
 					(unit 1)
@@ -13147,7 +13147,7 @@
 			(uuid "fd2117fa-f195-4ad2-a7b3-d7b7c03aec64")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0164")
 					(unit 1)
@@ -13212,7 +13212,7 @@
 			(uuid "af9084be-8760-4f24-8881-dbaabcb607db")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0109")
 					(unit 1)
@@ -13277,7 +13277,7 @@
 			(uuid "6428e296-c41e-4ab9-bda0-9f87a503c2bc")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0133")
 					(unit 1)
@@ -13342,7 +13342,7 @@
 			(uuid "dfda25ef-9779-4f9f-ac5a-5ea44348e84c")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0155")
 					(unit 1)
@@ -13447,7 +13447,7 @@
 			(uuid "5e759431-4d01-4fec-89b2-165a49761cac")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "C20")
 					(unit 1)
@@ -13513,7 +13513,7 @@
 			(uuid "9a87b0c5-2e69-4c54-ac4f-0c0b6e06d574")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0136")
 					(unit 1)
@@ -13579,7 +13579,7 @@
 			(uuid "11c4b816-8c48-40b2-982b-3e6cac09f404")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0140")
 					(unit 1)
@@ -13684,7 +13684,7 @@
 			(uuid "2f1a176b-f556-4f30-bf14-d98ae1e8d96d")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R4")
 					(unit 1)
@@ -13749,7 +13749,7 @@
 			(uuid "a187ef5b-3893-46e0-bbbd-83220fd2e121")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0118")
 					(unit 1)
@@ -13897,7 +13897,7 @@
 			(uuid "6a67baf8-d3b1-4f1a-a077-3cb9366cd31d")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "J1")
 					(unit 1)
@@ -14002,7 +14002,7 @@
 			(uuid "fee59e6a-c0e8-42d9-9b4e-cd6ac192bf75")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "C19")
 					(unit 1)
@@ -14067,7 +14067,7 @@
 			(uuid "c38c9184-9e23-47f3-bd28-7ee444468675")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0105")
 					(unit 1)
@@ -14147,7 +14147,7 @@
 			(uuid "4477446b-3f5f-4a4e-9eda-46e9f83bbbb6")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "MK2")
 					(unit 1)
@@ -14215,7 +14215,7 @@
 			(uuid "81b169da-2e6f-482e-9688-18672e5a16dc")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "FB1")
 					(unit 1)
@@ -14320,7 +14320,7 @@
 			(uuid "3f8ffaff-8e27-4185-9b7e-ce3cfd9f4a9b")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R6")
 					(unit 1)
@@ -14454,7 +14454,7 @@
 			(uuid "83d89e58-5fc6-4183-9513-e62080d91cf9")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0144")
 					(unit 1)
@@ -14524,7 +14524,7 @@
 			(uuid "b6499aec-9f67-4292-ab2a-52bd6e92802d")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "C8")
 					(unit 1)
@@ -14591,7 +14591,7 @@
 			(uuid "0a2eb46d-529e-4797-95e2-21e4f7122e7f")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "L1")
 					(unit 1)
@@ -14656,7 +14656,7 @@
 			(uuid "867f2c8f-63a4-40e2-8533-d88b018d94bd")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0151")
 					(unit 1)
@@ -14722,7 +14722,7 @@
 			(uuid "69685e58-6816-4ffe-b554-3e6f8503a2ac")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0154")
 					(unit 1)
@@ -14787,7 +14787,7 @@
 			(uuid "04b81b91-8c95-44ba-8986-1727109eb449")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0117")
 					(unit 1)
@@ -14853,7 +14853,7 @@
 			(uuid "8648d203-e8b6-4e5c-a0ce-d275980e4c2f")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0125")
 					(unit 1)
@@ -14920,7 +14920,7 @@
 			(uuid "46d55b68-af40-4547-986e-644d2a8dfbff")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "H2")
 					(unit 1)
@@ -15025,7 +15025,7 @@
 			(uuid "9db31844-6609-4216-9cfd-f13a0673c055")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R16")
 					(unit 1)
@@ -15205,7 +15205,7 @@
 			(uuid "28632060-1cdc-40b9-b6c1-20ca6960fd01")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R14")
 					(unit 1)
@@ -15272,7 +15272,7 @@
 			(uuid "181097b0-79b9-47b6-9379-fe0b650760a2")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0163")
 					(unit 1)
@@ -15341,7 +15341,7 @@
 			(uuid "f31bf68f-9cb4-486f-a963-95a53a529c1f")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "C9")
 					(unit 1)
@@ -15407,7 +15407,7 @@
 			(uuid "55b01db6-f738-4b4d-aa25-9f6db392b8dc")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0120")
 					(unit 1)
@@ -15472,7 +15472,7 @@
 			(uuid "21cc8d7b-8774-4e30-b7d8-dba5cd65b6ae")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0116")
 					(unit 1)
@@ -15541,7 +15541,7 @@
 			(uuid "2c703858-4a23-4f31-b53d-177b1df44378")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "C11")
 					(unit 1)
@@ -15647,7 +15647,7 @@
 			(uuid "3e144ce0-bac5-480b-83cd-d376896b1c7e")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R20")
 					(unit 1)
@@ -15752,7 +15752,7 @@
 			(uuid "cc3687b1-0b04-4917-8bcb-17a3dbbf29fe")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "BOOT2")
 					(unit 1)
@@ -15857,7 +15857,7 @@
 			(uuid "66b1bfba-a12d-4966-8a76-319b2ceac435")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "C14")
 					(unit 1)
@@ -15922,7 +15922,7 @@
 			(uuid "98b82464-ba7c-4408-aedc-990095f6f722")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0126")
 					(unit 1)
@@ -16027,7 +16027,7 @@
 			(uuid "55c893b7-cf7c-44e1-ad3b-956fea04bebe")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R15")
 					(unit 1)
@@ -16093,7 +16093,7 @@
 			(uuid "ce453938-1087-4aad-982a-f6ee6f53e303")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0135")
 					(unit 1)
@@ -16158,7 +16158,7 @@
 			(uuid "a1ede192-dbf8-41a1-86d0-61698e8b099b")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0113")
 					(unit 1)
@@ -16223,7 +16223,7 @@
 			(uuid "1470fcd0-c3de-4fec-ba38-e7d987995194")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0161")
 					(unit 1)
@@ -16328,7 +16328,7 @@
 			(uuid "908d742e-5678-4155-a8bc-68fa9ac9f6f6")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R19")
 					(unit 1)
@@ -16393,7 +16393,7 @@
 			(uuid "e3453304-787f-4d76-8bce-f5848e8719f9")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0111")
 					(unit 1)
@@ -16468,7 +16468,7 @@
 			(uuid "c3390517-e0c1-4480-8221-d6b6447d4588")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "D2")
 					(unit 1)
@@ -16761,7 +16761,7 @@
 			(uuid "213d4287-38c6-4373-a262-bb8710ce7df8")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R17")
 					(unit 1)
@@ -16826,7 +16826,7 @@
 			(uuid "2278189b-4640-48a7-8267-a407f4ea500a")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0169")
 					(unit 1)
@@ -16894,7 +16894,7 @@
 			(uuid "b1430292-9c8f-4fc7-9978-e48ca5e378f3")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "FB2")
 					(unit 1)
@@ -16959,7 +16959,7 @@
 			(uuid "82aceae0-c6d7-4631-b27c-3e2c893d1af1")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0104")
 					(unit 1)
@@ -17024,7 +17024,7 @@
 			(uuid "87256b9b-aef1-4fe3-bda3-f8e7b295895d")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0134")
 					(unit 1)
@@ -17089,7 +17089,7 @@
 			(uuid "4978b67a-99a8-4a86-8949-21f9a91493f1")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0148")
 					(unit 1)
@@ -17155,7 +17155,7 @@
 			(uuid "06bf6780-7a9f-4adc-ab70-d647562c6e98")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0124")
 					(unit 1)
@@ -17224,7 +17224,7 @@
 			(uuid "fce6154e-d96f-43b3-b714-99619763d8cc")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "C7")
 					(unit 1)
@@ -17289,7 +17289,7 @@
 			(uuid "fc616256-c106-473f-a2de-925e8e448240")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0110")
 					(unit 1)
@@ -17393,7 +17393,7 @@
 			(uuid "1dffdecc-b92c-42ba-9e25-9ead3b89c6a5")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R22")
 					(unit 1)
@@ -17474,7 +17474,7 @@
 			(uuid "879df2d4-51c2-42dc-be3d-27beeba101fb")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R23")
 					(unit 1)
@@ -17549,7 +17549,7 @@
 			(uuid "b0a5c1a2-04cb-41f1-87a5-e3b37db058c5")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "D4")
 					(unit 1)
@@ -17614,7 +17614,7 @@
 			(uuid "17bd1f05-73aa-4173-8958-28d4a5ba02d4")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0145")
 					(unit 1)
@@ -17679,7 +17679,7 @@
 			(uuid "c4d46e17-8126-4745-bf36-e755cd974c69")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0162")
 					(unit 1)
@@ -17744,7 +17744,7 @@
 			(uuid "a7749605-b6f7-441c-8fbb-30e5909778f9")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0165")
 					(unit 1)
@@ -17809,7 +17809,7 @@
 			(uuid "e7c547fa-0756-455e-9da5-d133e8faa937")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0150")
 					(unit 1)
@@ -17879,7 +17879,7 @@
 			(uuid "eb1e523a-6e19-42e6-a4db-3f6301571218")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "C1")
 					(unit 1)
@@ -17944,7 +17944,7 @@
 			(uuid "cf5a258b-ed3d-4470-a9da-2da69115fee3")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0127")
 					(unit 1)
@@ -18175,7 +18175,7 @@
 			(uuid "495e930c-fea2-4839-954b-73038fa0d719")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "J3")
 					(unit 1)
@@ -18245,7 +18245,7 @@
 			(uuid "6b38f9ee-c870-49fc-b651-d673ced6b2f8")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "C6")
 					(unit 1)
@@ -18311,7 +18311,7 @@
 			(uuid "947f3540-5e25-4abb-b01d-c5e0112d73c2")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0141")
 					(unit 1)
@@ -18377,7 +18377,7 @@
 			(uuid "a70ab7ce-4e6b-4b54-8bbc-e188ec8af497")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0137")
 					(unit 1)
@@ -18482,7 +18482,7 @@
 			(uuid "424d5b30-1296-4784-b75a-05a1dfa9343f")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R12")
 					(unit 1)
@@ -18641,7 +18641,7 @@
 			(uuid "1c521299-8e0b-4868-bf6b-af5b8986bdf4")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "C22")
 					(unit 1)
@@ -18706,7 +18706,7 @@
 			(uuid "a27dcda9-e0f2-4e16-a65c-2f2feb335652")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0153")
 					(unit 1)
@@ -18771,7 +18771,7 @@
 			(uuid "69ee6ae5-4619-409d-9180-69cb9254de3d")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#FLG0101")
 					(unit 1)
@@ -18903,7 +18903,7 @@
 			(uuid "c01390d2-1b5e-4f94-a5dc-3261f7a226dc")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0119")
 					(unit 1)
@@ -18968,7 +18968,7 @@
 			(uuid "cd9d8649-64d6-40da-a7df-c471491aad1a")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0166")
 					(unit 1)
@@ -19073,7 +19073,7 @@
 			(uuid "b702cc84-9713-4340-9d65-a5f3c0897c35")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R18")
 					(unit 1)
@@ -19138,7 +19138,7 @@
 			(uuid "11e66fa3-9fce-473e-8e84-4ce711d6f091")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0152")
 					(unit 1)
@@ -19204,7 +19204,7 @@
 			(uuid "d9054571-6292-4b62-adca-bd228367d7a9")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0138")
 					(unit 1)
@@ -19474,7 +19474,7 @@
 			(uuid "53562244-44f8-4b19-bdb1-20a4cf81915c")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "C18")
 					(unit 1)
@@ -19555,7 +19555,7 @@
 			(uuid "3bfb4e57-d4d1-4b83-b0e5-9016df5ff0b5")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R24")
 					(unit 1)
@@ -19702,7 +19702,7 @@
 			(uuid "b5e0f9ba-d470-4337-960d-a740a27eed6c")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "D3")
 					(unit 1)
@@ -19767,7 +19767,7 @@
 			(uuid "f88cd6c8-f228-4ef1-903b-3497509903f7")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0102")
 					(unit 1)
@@ -19832,7 +19832,7 @@
 			(uuid "3227d624-0e37-4b2b-8088-b82822f8211f")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0131")
 					(unit 1)
@@ -19964,7 +19964,7 @@
 			(uuid "f8755fd0-0ec5-4a06-9b2d-740f73b13ea6")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0101")
 					(unit 1)
@@ -20068,7 +20068,7 @@
 			(uuid "37aac4d8-5371-4e6d-b8cc-0b4117c2f7f3")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R2")
 					(unit 1)
@@ -20171,7 +20171,7 @@
 			(uuid "4a42f8ca-a4a2-4b74-bc79-8ba9e1a034b4")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R1")
 					(unit 1)
@@ -20237,7 +20237,7 @@
 			(uuid "3a2c0889-d255-4d19-915e-2c2c0cdb9fec")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0139")
 					(unit 1)
@@ -20342,7 +20342,7 @@
 			(uuid "d3bd16d7-f7b5-4453-a7f3-2d71a230a012")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R11")
 					(unit 1)
@@ -20447,7 +20447,7 @@
 			(uuid "ca3ef5bf-080e-4bc1-9812-1771c27e4501")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "C17")
 					(unit 1)
@@ -20553,7 +20553,7 @@
 			(uuid "f5d837b3-2a07-4628-87c3-c882e37c3c7d")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "C15")
 					(unit 1)
@@ -20658,7 +20658,7 @@
 			(uuid "4c25a3e8-0d25-42aa-b47e-c49e8bc3f860")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R7")
 					(unit 1)
@@ -20763,7 +20763,7 @@
 			(uuid "c919073d-7cc7-4c04-821a-069018103586")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R13")
 					(unit 1)
@@ -20833,7 +20833,7 @@
 			(uuid "9c2ca3d6-7697-42ee-889a-a6032c41649a")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "C3")
 					(unit 1)
@@ -20997,7 +20997,7 @@
 			(uuid "bc63dbf9-e5f7-4726-bf72-92d58e4c2264")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "IC3")
 					(unit 1)
@@ -21062,7 +21062,7 @@
 			(uuid "a37de15a-6f10-4748-9df7-0448fbf2566d")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0132")
 					(unit 1)
@@ -21127,7 +21127,7 @@
 			(uuid "54775313-fa5c-45cb-96cd-b92e33e5d9d9")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0107")
 					(unit 1)
@@ -21232,7 +21232,7 @@
 			(uuid "bf760979-fc78-4134-9046-f9e5992e7847")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R3")
 					(unit 1)
@@ -21383,7 +21383,7 @@
 			(uuid "0f4cf6c3-7720-4e58-96e3-910ca70fce49")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "J2")
 					(unit 1)
@@ -21494,7 +21494,7 @@
 			(uuid "3b4dc2e1-2022-4fa0-8e21-4757a6dbe9bd")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "SW1")
 					(unit 1)
@@ -21605,7 +21605,7 @@
 			(uuid "d0a59e3e-2f48-4c53-9ace-397e15081dc5")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "SW2")
 					(unit 1)
@@ -21670,7 +21670,7 @@
 			(uuid "50b42dad-6f19-448b-bf79-3d018b293b68")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0106")
 					(unit 1)
@@ -21735,7 +21735,7 @@
 			(uuid "6daee418-6be3-4ffb-ae29-05eb75c8c8f9")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0103")
 					(unit 1)
@@ -21804,7 +21804,7 @@
 			(uuid "23ef3d64-f619-48f7-b056-6c87d39689ed")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "C10")
 					(unit 1)
@@ -21869,7 +21869,7 @@
 			(uuid "4f4f746f-4f4a-4727-8363-15dad1747368")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0167")
 					(unit 1)
@@ -21934,7 +21934,7 @@
 			(uuid "605e7556-f5e2-4afa-833a-ca4a7f35a8ee")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0143")
 					(unit 1)
@@ -22039,7 +22039,7 @@
 			(uuid "4fba2a85-1fa3-4ed8-8a11-b747add4b18a")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "BOOT1")
 					(unit 1)
@@ -22144,7 +22144,7 @@
 			(uuid "90a842a3-86bb-4f45-9513-39aa5e54a961")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "R5")
 					(unit 1)
@@ -22214,7 +22214,7 @@
 			(uuid "264436ab-9a41-4cd0-abb2-f797d7a969da")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "C2")
 					(unit 1)
@@ -22280,7 +22280,7 @@
 			(uuid "f3792538-828e-4952-8be1-437b332ee132")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0130")
 					(unit 1)
@@ -22346,7 +22346,7 @@
 			(uuid "146a3fb8-a6c1-4666-bbad-0810a8d06576")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "#PWR0121")
 					(unit 1)
@@ -22474,7 +22474,7 @@
 			(uuid "d74a5b0d-0220-403e-ad93-a05643017935")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "SPK1")
 					(unit 1)
@@ -22633,7 +22633,7 @@
 			(uuid "11fee5e2-bd24-4c18-bbd2-e8c8ed844756")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "LED1")
 					(unit 1)
@@ -22730,7 +22730,7 @@
 			(uuid "fc407e18-0b30-4a61-87e7-51dbd00bc952")
 		)
 		(instances
-			(project "AI voice assistant"
+			(project "Wazo"
 				(path "/faa2c1ac-edff-4ae7-8c62-8693455bf355"
 					(reference "J4")
 					(unit 1)
